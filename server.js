@@ -3,7 +3,6 @@ const dotenv = require('dotenv');
 
 process.on('uncaughtException', (err) => {
   console.log('UNCAUGHT EXCEPTION! 💣 Shutting down....');
-  console.log(err);
   console.log(err.name, err.message);
   process.exit(1);
 });
@@ -38,5 +37,3 @@ process.on('unhandledRejection', (err) => {
     process.exit(1);
   });
 });
-
-// console.log(x);
