@@ -43,7 +43,7 @@ const styleSrcUrls = [
 const connectSrcUrls = [
   'https://unpkg.com',
   'https://tile.openstreetmap.org',
-  'ws://.0.0.1:58369',
+  // 'ws://.0.0.1:58369',
 ];
 const fontSrcUrls = ['fonts.googleapis.com', 'fonts.gstatic.com'];
 const frameSrcUrls = ['https://js.stripe.com/v3/'];
