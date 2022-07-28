@@ -7,11 +7,10 @@ Tour booking api and server-side rendered website using node.js, express, mongoD
 ### Features
 
 - Show all tours and display detail page of each tour with other users' reviews
-- User sign up, log in, change password, reset password, secure cookies and user role authorization
+- User log in, change password, reset password, secure cookies and user role authorization
   - admin email: admin@natours.io / password: test1234
   - user email: laura@example.com / password: test1234
   - guide email: jennifer@example.com / password: test1234
-  - You can sign up as a user
 - Book and pay for a tour and check bookings history at my bookings in account settings page
 
 ### API Documentation
