@@ -4,10 +4,6 @@ Tour booking api and server-side rendered website using node.js, express, mongoD
 
 ## Project Description
 
-Connecting mongoDB with natours express application.
-Create models for users, tours, reviews, bookings using mongoose
-Server-side rendering with Pug templates
-
 ### Features
 
 - Show all tours and display detail page of each tour with other users' reviews
