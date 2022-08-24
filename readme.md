@@ -1,17 +1,17 @@
 # Natours Application
 
-Tour booking api and server-side rendered website using node.js, express, mongoDB, mongoose and pug
+Natours application is a tour booking api and server-side rendered e-commerce website using node.js, express, mongoDB, mongoose and pug.
 
 ## Project Description
 
-### Features
+### Website Features
 
 - Show all tours and display detail page of each tour with other users' reviews
 - User log in, change password, reset password, secure cookies and user role authorization
-  - admin email: admin@natours.io / password: test1234
-  - user email: laura@example.com / password: test1234
-  - guide email: jennifer@example.com / password: test1234
-- Book and pay for a tour and check bookings history at my bookings in account settings page
+  - **admin** email: admin@natours.io / password: test1234
+  - **user** email: laura@example.com / password: test1234
+  - **guide** email: jennifer@example.com / password: test1234
+- Book and pay for a tour and check booking history at my bookings in account settings page
 
 ### API Documentation
 
@@ -64,6 +64,6 @@ Natours backend api documentation can be found [here](https://documenter.getpost
 
 This project is coding-along project from the Udemy Node.js, Express, MongoDB & More: The Complete Bootcamp 2022 by instructor Jonas Schmedtmann. Part of HTML, CSS and image files were provided by the instructor.
 
-The below link is the instructors github address.
+The below link is the instructor's github address.
 
 [Instructor's GitHub](https://github.com/jonasschmedtmann/complete-node-bootcamp.git)
