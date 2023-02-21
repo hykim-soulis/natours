@@ -20,7 +20,7 @@ Natours backend api documentation can be found [here](https://documenter.getpost
 ### What I've learned
 
 - Node.js and Express
-- MongoDB with Mongoose: geospatial, data populates and modeling
+- MongoDB with Mongoose: geospatial, data population and modeling
 - Postman
 - RESTful API design and CRUD operations
 - Error handling with Express
@@ -62,7 +62,7 @@ Natours backend api documentation can be found [here](https://documenter.getpost
 
 ## Resource
 
-This project is coding-along project from the Udemy Node.js, Express, MongoDB & More: The Complete Bootcamp 2022 by instructor Jonas Schmedtmann. Part of HTML, CSS and image files were provided by the instructor.
+This project is coding-along project from the Udemy course: Node.js, Express, MongoDB & More: The Complete Bootcamp 2022 by instructor Jonas Schmedtmann. Part of HTML, CSS and image files were provided by the instructor.
 
 The below link is the instructor's github address.
 
