@@ -32,7 +32,7 @@ Natours backend api documentation can be found [here](https://documenter.getpost
 
 ### Live demo link
 
-[https://natours-hyeyoung.up.railway.app/](https://natours-hyeyoung.up.railway.app/)
+[https://natours-production-a69e.up.railway.app/](https://natours-production-a69e.up.railway.app/)
 
 ## How to Install and Run the Project
 
